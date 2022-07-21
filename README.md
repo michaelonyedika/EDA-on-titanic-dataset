@@ -1,2 +1,2 @@
 # EDA-on-titanic-dataset
-EDA on Titanic Dataset
+Exploratory data analysis on Titanic Dataset, to find chance of high survisurvival 
